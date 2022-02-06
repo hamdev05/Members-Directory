@@ -33,4 +33,4 @@
 
 [Olaoye Isaiah](https://github.com/kuhmasii)
 
-[Oyaromade Hammed Olalekan](https://github.com/emmanuelJet) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/hamdev05)
+[Oyaromade Hammed Olalekan](https://github.com/hamdev05) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/hamdev05)
